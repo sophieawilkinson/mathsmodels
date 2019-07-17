@@ -1,39 +1,26 @@
 ---
 title: Sierpinski Tetrahedron
 cover_image: images/Tetrahedron1.jpeg
+date: 2019-07-17 19:49:54
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+## What is a Sierpinski Tetrahedron?
 
-### Create a new post
+A Sierpinski tetrahedron is a 3D version of the Sierpinski triangle.
 
-``` bash
-$ hexo new "My New Post"
-```
+A Sierpinski triangle is a fractal based on an equilateral triangle, made by divising the trangle into four smaller triangles, removing the central triangle and then repeating for each of the three remaing triangles.  If you repeat this process forever, you get a fractal.  
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+It is named after the Polish mathematician Wacław Sierpiński, but appeared as a decorative pattern many centuries before the work of Sierpiński.
 
-### Run server
+## What is a fractal?
 
-``` bash
-$ hexo server
-```
+A fractal is a never ending pattern that repeats itself at different scales.  This property is called "Self-Similarity".  Although fractals are very complex they are made by repeating a simple process.
 
-More info: [Server](https://hexo.io/docs/server.html)
+We find fractals in nature such as branching patterns like trees, river networks, lightning bolts and blood vessels.
 
-### Generate static files
+More info: [here](www.google.co.uk)
 
-``` bash
-$ hexo generate
-```
+## How can I make a Sierpinski Tetrahedron?
 
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
