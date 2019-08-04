@@ -11,8 +11,8 @@ Have a suggestion for my next model?  Get in touch.
 
 
 <form action="https://formspree.io/mathsmodels0@gmail.com" method="POST">
-  <input type="Your name" name="name">
-  <input type="Your email address" name="_replyto">
+  <input type="text" name="name" placeholder="Your name"><br>
+  <input type="email" name="_replyto" placeholder="Your email address"><br>
   <textarea name="message" placeholder = "Message"></textarea><br>
-  <input type="submit" value="Send">
+  <button type="submit">Send</button><br>
 </form>
