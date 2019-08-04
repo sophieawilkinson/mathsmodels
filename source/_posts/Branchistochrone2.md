@@ -7,7 +7,7 @@ tags:
 
 ## Finding the fastest path from A to B
 
-I got the idea for this model from a maths course I was taking on the calculus of variations.  This is a slightly obscure branch of calculus that deals with finding paths which give minimum or maximum values of an integral.
+I got the idea for this model from a maths course I was taking on the calculus of variations.  This is a slightly obscure branch of calculus that deals with finding paths which give minimum or maximum values of an integral containing an unknown function (this is called a functional).
 
 The model illustrates the solution to a problem posed in 1696 by Mathematician Johann Bernouilli.  This was to find the path that an object should follow in order to get from A to B  in the shortest time possible moving just under gravity (and with no friction).  It turns out that the curve to follow is called a cycloid; calculus of variation techniques allow the specific equation to be calculated.  The easiest way to envisage a cycloid shape is to think of a bicycle wheel and imagine the path traced out by the valve, starting at ground level, as the wheel is rolled forward over level ground.  Our cycloid is this shape but upside down.
 
