@@ -5,6 +5,10 @@ date: 2019-07-17 18:36:50
 
 ## Welcome to Maths Models.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur malesuada ornare sapien, eu aliquet risus. Morbi quis elit sapien. Vestibulum in dictum ligula. Duis fermentum vehicula leo, ut accumsan nisl mattis ac. Aliquam id lorem id ex tincidunt interdum non eu lorem. Etiam consectetur enim nec aliquet pretium. In vel accumsan nisl, sed fringilla ligula. Maecenas lobortis nisl a nisl finibus facilisis. Sed nec sapien mollis ligula faucibus fringilla. Vivamus imperdiet vitae dolor venenatis pretium. Mauris eu rhoncus ligula.
+I’ve always loved Maths and after a 30 year IT career following Uni I decided to train as a Maths teacher and spend the rest of my working life pursuing my hobby.
 
-Curabitur id maximus nisi, ut vulputate neque. Etiam quis lacus vitae felis faucibus malesuada non ac metus. Duis consectetur est et ex fringilla auctor. Sed condimentum enim sed nibh condimentum lobortis. Quisque vel felis quis massa porta tristique non eu metus. Quisque eu felis vitae ligula pharetra ultrices id feugiat nisi. Integer consectetur, dui quis maximus elementum, magna neque scelerisque orci, ut volutpat tortor enim nec sapien. Etiam semper eros semper urna ornare tempus. Proin aliquam luctus felis id venenatis. Fusce laoreet pharetra lectus, vel sagittis turpis tempor vel. Nam maximus nunc at ante accumsan, id lacinia eros ornare. Nulla in tincidunt diam. Proin eget felis vel velit convallis hendrerit. Suspendisse potenti. Aenean convallis efficitur quam, et dapibus quam vehicula ut. Cras hendrerit lorem varius, cursus turpis vehicula, bibendum turpis.
+The area of the subject I prefer is Applied Maths: using the subject to explain and investigate real world objects and systems.  Being a Maths teacher has given me a wonderful opportunity to indulge this subject, and hopefully inspire some pupils, by building a variety of physical mathematical models with students.  These are often backed up with computerised simulations and always with lots of maths describing and explaining aspects of the models we’ve built.
+
+This website collects together information on the models along with descriptions of some of the maths, and links to simulations built.
+
+I hope you find the site interesting.  Please feel free to contact me if you have any questions and do share with friends who also have the maths bug.
