@@ -1,7 +1,7 @@
 ---
 title: Sierpinski Tetrahedron
 cover_image: images/Tetrahedron1.jpeg
-date: 2019-07-17 19:49:54
+date: 2019-01-06 19:49:54
 ---
 
 ## What is a Sierpinski Tetrahedron?
