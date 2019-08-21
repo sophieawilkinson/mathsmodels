@@ -1,9 +1,17 @@
 ---
 title: Cat and Mouse
-cover_image: images/Cat_and_mouse.jpeg
+cover_image: images/Cat_and_mouse2.jpeg
 date: 2018-12-31 17:00:52
 tags:
 ---
+
+## A mouse is at the centre of a circular pond.  A cat, who wants to eat the mouse is at the edge.
+
+## The mouse can run faster than the cat, but can only swim at 1/4 of the speed the cat can run.
+
+## The cat will not enter the water.
+
+## Can the mouse escape the cat? How? What path should it take to escape most quickly?
 
 There’s no physical model with this puzzle, but lower down is a link to a model in GeoGebra that illustrates the solution.  I particularly like the puzzle as it is solvable without using anything other than basic maths, but to find the optimum escape path uses a mix of techniques that is a nice challenge for A level maths students.
 
