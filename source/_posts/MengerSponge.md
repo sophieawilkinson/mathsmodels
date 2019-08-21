@@ -29,9 +29,8 @@ The final Level 3 model contains 48,000 pieces of card.  It was built in its dis
 
 <br>
 
+<p>The volume and surface area of a Menger sponge have fascinating properties as the level of the sponge increases.  <a href="https://sites.google.com/view/surface-area-of-menger-sponge/home">Click here</a> to see a description of the maths that gives expressions for both of these. </p>
 
-
-<!-- The volume and surface area of a Menger sponge have fascinating properties as the level of the sponge increases.  See the following link for a description of the maths that gives expressions for both of these: (google sites link provided)
-
+<!--
 If you’re interested in building a Menger sponge of your own, please see the following video clip that shows how to fold and assemble a 6 card Level 0 unit on which the whole model is based: (link to video)
 -->
