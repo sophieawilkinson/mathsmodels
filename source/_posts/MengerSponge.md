@@ -22,13 +22,14 @@ Since it’s not practical to make a Menger sponge in this way, we built outward
 
 The final Level 3 model contains 48,000 pieces of card.  It was built in its display location because is too big and fragile to move once complete.  It’s protected by an acrylic box built around the model to prevent accidental damage.
 
-<!-- <br> Leaving until I can work out how to change the size of the image
+<br>
 
-![Menger Sponge in case](/images/menger_2.jpeg)
+<img src="/images/menger_2.jpeg" alt="Menger Sponge in case"
+	title="Menger Sponge in case" width="750" height="550" />
 
 <br>
 
--->
+
 
 <!-- The volume and surface area of a Menger sponge have fascinating properties as the level of the sponge increases.  See the following link for a description of the maths that gives expressions for both of these: (google sites link provided)
 

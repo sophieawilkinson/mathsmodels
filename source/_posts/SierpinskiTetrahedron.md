@@ -25,4 +25,11 @@ The unit was sited outside the Maths and Science building in early January 2019.
 
 As the model ages some of the initial colours have been bleached by the sun and the blue and green colours in particular have all but gone.  Dominant colours remaining as at July 2019 are silver, gold and red, which still leave the model as a pretty stunning sight!
 
+<br>
+
+<img src="/images/Tetrahedron_2.jpeg" alt="Tetrahedron outside"
+	title="Tetrahedron outside" width="750" height="550" />
+
+<br>
+
 Thanks in particular to Lee Farrer who built the concrete plinth the tetrahedron case sits on and who has been infinitely patient with my many calls for assistance in initially siting the model and then in opening and resealing the case when maintenance has been necessary.
