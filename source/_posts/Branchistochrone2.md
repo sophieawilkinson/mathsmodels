@@ -21,12 +21,15 @@ The curves were made by Maths and Physics Sixth Form pupils at my school as part
 
 Making the mechanism for raising and simultaneously releasing the balls was quite a challenge.  I decided on electromagnets as the release mode since these can be made to release at exactly the same time, consistently.  This level of precision is needed because the difference in journey time between some paths is so small that simultaneous release is critical to be able to observe the effect.  Getting the balls from the start point to the magnets involves an intricate mechanism, starting with an Archimedes screw lift, and then a sensitive balance mechanism that delivers each ball directly onto a magnet once the final one reaches the top of the model.  This done, the magnets are rotated to the top of each curve and the balls released.  At the end of their curves the balls fall onto a series of sloped ramps which roll them all around the case to the entry of the lift.  The model is then primed for the process to repeat when a user presses the start button on the outside of the case.  All of these actions are coordinated via a Rasberry Pi device.
 
-To show that a wider variety of curves are 'beaten' by the cycloid I also developed a computer model, which is displayed on an iPad next to the display.  This model allows users to vary all of the curves apart from the cycloid, which 'wins' regardless of how the other curves are configured.  The model was developed in GeoGebra, a superb (and free) mathematical modelling language.  It works by solving the differential equation of motion numerically for the curves as configured by the user, so motion on the iPad (excluding friction) is as would be observed in the real world.  You can try out this model here:
-https://www.geogebra.org/m/YrnfqtWg
+<p>To show that a wider variety of curves are 'beaten' by the cycloid I also developed a computer model, which is displayed on an iPad next to the display.  This model allows users to vary all of the curves apart from the cycloid, which 'wins' regardless of how the other curves are configured.  The model was developed in GeoGebra, a superb (and free) mathematical modelling language.  It works by solving the differential equation of motion numerically for the curves as configured by the user, so motion on the iPad (excluding friction) is as would be observed in the real world.  You can try out this model <a href="https://www.geogebra.org/m/YrnfqtWg">here</a>
+</p>
+
+
 
 ## The maths behind the model
 
-The maths behind the calculation of the cycloid equation used in the model is a bit involved, but I've written this out for anyone interested, it can be accessed here: https://sites.google.com/view/fastestdescentcurve/home
+<p>The maths behind the calculation of the cycloid equation used in the model is a bit involved, but I've written this out for anyone interested, it can be accessed <a href="https://sites.google.com/view/fastestdescentcurve/home">here</a> 
+</p>
 
 
 ## With thanks to

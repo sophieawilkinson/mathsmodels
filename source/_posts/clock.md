@@ -17,7 +17,7 @@ The technical term is that the differential equation that describes the motion o
 
 This is the feature that allows a pendulum clock to be a reliable time keeper.  In essence the regular kicks given to the pendulum rod via the escape mechanism are automatically kept to the limit cycle amplitude of the mechanism, and the regular period of the pendulum is converted via gears to drive the clock hands.
 
-<p>The maths of how to determine the period of a pendulum being driven by a weight is complex, however just considering a simple pendulum (no regular kick from the weight) is easier.  To see this <a href="https://sites.google.com/view/simplependulumperiod/home">click here</a>
+<p>The maths of a pendulum being driven by a weight is complex, however just considering a simple pendulum (no regular kick from the weight) is easier.  To see this <a href="https://sites.google.com/view/simplependulumperiod/home">click here</a>
 </p>
 
 ### THE PROJECT
