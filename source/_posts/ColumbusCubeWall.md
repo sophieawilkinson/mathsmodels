@@ -9,7 +9,7 @@ The Columbus cube tower is made from two sizes of cube stacked alternately on to
 
 The secret of how the cubes stack is that each one has an inverted corner, which fits exactly on top of the upper corner of the cube underneath.
 
-It took a couple of goes to get a tower this talk to stand.  The initial card was too thin and lower cubes buckled after a week or two.  The present structure is however pretty robust.
+It took a couple of goes to get a tower this tall to stand.  The initial card was too thin and lower cubes buckled after a week or two.  The present structure is however pretty robust.
 
 The cubes can be built into a number of visually appealing shapes, for instance this Columbus Cube wall too.  Note that the wall needs to have supporting pieces slotted between each column to give stability.
 
