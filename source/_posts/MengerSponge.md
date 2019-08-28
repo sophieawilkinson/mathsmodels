@@ -20,7 +20,7 @@ The best way to imagine a Menger sponge is to begin with a solid cube (this is a
 
 Since it’s not practical to make a Menger sponge in this way, we built outwards instead, with our Level 0 units each made from six cards.  Twenty of these units were then slotted together (with no glue used) to make a Level 1.  In turn, twenty Level 1s make a Level 2, and finally, twenty Level 2s were put together to make our Level 3 sponge.  This took a lot of work by pupils in all years at my school and I think has somewhat detracted from my popularity with my colleagues!
 
-The final Level 3 model contains 48,000 pieces of card.  It was built in its display location because is too big and fragile to move once complete.  It’s protected by an acrylic box built around the model to prevent accidental damage.
+The final Level 3 model contains 48,000 pieces of card.  It was built in its display location because it is too big and fragile to move once complete.  It’s protected by an acrylic box to prevent accidental damage.
 
 <br>
 

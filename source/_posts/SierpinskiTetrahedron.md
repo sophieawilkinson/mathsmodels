@@ -4,7 +4,7 @@ cover_image: images/Tetrahedron1.jpeg
 date: 2019-01-06 19:49:54
 ---
 
-After building the level 3 Menger sponge in 2017 (also on this site) I was looking for another project where I could involve all pupils at my school with construction of another mathematical object on a similar scale, and ideally as visually striking.
+<p>After building the <a href="https://mathsmodels.co.uk/2019/01/04/MengerSponge/">level 3 Menger sponge</a> in 2017 I was looking for another project where I could involve all pupils at my school with construction of another mathematical object on a similar scale, and ideally as visually striking.</p>
 
 Another fractal seemed a possibility since these are generally constructed from fairly simple base units joined to make an almost surreal object.  I needed the basic unit construction to be do-able by pupils from age 11 upwards.  In searching I came across an American website by a maths teacher who was building Sierpinski tetrahedrons from folded and glued card.  These are an extension of the original Sierpinski triangle from 2D to 3D.  I thought that a large model like this with smaller base units than on the website would look very appealing indeed, particularly if we could find a way of displaying it outside where it was more visible to a larger audience than the Menger sponge.  The idea of using mirror card was also inspired by the planned outdoor positioning since this would reflect light well and increase the visual attraction.
 
