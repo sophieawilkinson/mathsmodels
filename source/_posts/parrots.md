@@ -11,7 +11,7 @@ Tessellation is the name for a picture created by ‘tiling’ one or more image
 
 Such pictures can look stunning and on first sight can appear very surprising.
 
-M C Escher was a master exponent who created many amazing tessellated pictures, some bases on animals.  Ours is in a similar style.
+M C Escher was a master exponent who created many amazing tessellated pictures, some based on animals.  Ours is in a similar style.
 
 The picture was made by copying the basic tessellation tile (a parrot) onto overhead projector slides, which the class cut out.
 
