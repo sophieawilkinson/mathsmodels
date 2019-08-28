@@ -5,7 +5,7 @@ date: 2019-01-05 15:47:06
 tags:
 ---
 
-## Finding the fastest path from A to B
+<h2>Finding the fastest path from A to B</h2>
 
 I got the idea for this model from a maths course I was taking on the calculus of variations.  This is a slightly obscure branch of calculus that deals with finding paths which give minimum or maximum values of an integral containing an unknown function (this is called a functional).
 
@@ -15,7 +15,9 @@ The model illustrates the cycloid's supremacy by comparing six different paths a
 
 Interestingly, you may notice that the cycloid takes its ball on a path that goes below its end point for part of the journey - the ball is climbing when it reaches the end!
 
-## Model construction
+<br>
+
+<h2>Model construction</h2>
 
 The curves were made by Maths and Physics Sixth Form pupils at my school as part of their enrichment lessons.  This involved drawing each curve in PowerPoint and projecting a full size image onto a whiteboard to sketch onto a piece of card, which was used as the template for other pieces of card and facing plastic to make the curve.  To ensure balls roll smoothly and as friction free as possible, a piece of nylon rail from a SpaceRail (marble run) kit was hot-glued to the top of each curve.
 
@@ -24,14 +26,15 @@ Making the mechanism for raising and simultaneously releasing the balls was quit
 <p>To show that a wider variety of curves are 'beaten' by the cycloid I also developed a computer model, which is displayed on an iPad next to the display.  This model allows users to vary all of the curves apart from the cycloid, which 'wins' regardless of how the other curves are configured.  The model was developed in GeoGebra, a superb (and free) mathematical modelling language.  It works by solving the differential equation of motion numerically for the curves as configured by the user, so motion on the iPad (excluding friction) is as would be observed in the real world.  You can try out this model <a href="https://www.geogebra.org/m/YrnfqtWg">here</a>
 </p>
 
+<br>
 
+<h2>The maths behind the model</h2>
 
-## The maths behind the model
-
-<p>The maths behind the calculation of the cycloid equation used in the model is a bit involved, but I've written this out for anyone interested, it can be accessed <a href="https://sites.google.com/view/fastestdescentcurve/home">here</a> 
+<p>The maths behind the calculation of the cycloid equation used in the model is a bit involved, but I've written this out for anyone interested, it can be accessed <a href="https://sites.google.com/view/fastestdescentcurve/home">here</a>
 </p>
 
+<br>
 
-## With thanks to
+<h2>With thanks to</h2>
 
 Mike Reed, who gave lots of assistance with the lift and release mechanism, and Cameron Holmes, who helped build the curves with assistance from pupils.
