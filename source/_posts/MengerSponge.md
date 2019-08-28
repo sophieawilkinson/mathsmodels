@@ -1,6 +1,6 @@
 ---
 title: Menger Sponge
-cover_image: images/MengerSponge.jpeg
+cover_image: images/Menger_Sponge/MengerSponge.jpeg
 date: 2019-01-04 19:49:54
 tags:
 ---
@@ -14,7 +14,7 @@ The best way to imagine a Menger sponge is to begin with a solid cube (this is a
 
 <br>
 
-![Menger Sponge Diagram](/images/menger_0123_diagram.jpeg)
+![Menger Sponge Diagram](/images/Menger_Sponge/menger_0123_diagram.jpeg)
 
 <br>
 
@@ -24,7 +24,7 @@ The final Level 3 model contains 48,000 pieces of card.  It was built in its dis
 
 <br>
 
-<img src="/images/menger_2.jpeg" alt="Menger Sponge in case"
+<img src="/images/Menger_Sponge/menger_2.jpeg" alt="Menger Sponge in case"
 	title="Menger Sponge in case" width="750" height="550" />
 
 <br>

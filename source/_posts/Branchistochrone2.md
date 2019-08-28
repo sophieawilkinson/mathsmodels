@@ -1,6 +1,6 @@
 ---
 title: Brachistochrone
-cover_image: images/Brachistochrone.jpeg
+cover_image: images/Brachistochrone/Brachistochrone.jpeg
 date: 2019-01-05 15:47:06
 tags:
 ---

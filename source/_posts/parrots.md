@@ -1,6 +1,6 @@
 ---
 title: Tessellating Parrots
-cover_image: images/Parrots.jpeg
+cover_image: images/Tessalating_Parrots/Parrots.jpeg
 date: 2019-01-01 16:13:57
 tags:
 ---

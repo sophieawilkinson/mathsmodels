@@ -1,6 +1,6 @@
 ---
 title: Sierpinski Tetrahedron
-cover_image: images/Tetrahedron1.jpeg
+cover_image: images/Tetrahedron/Tetrahedron1.jpeg
 date: 2019-01-06 19:49:54
 ---
 
@@ -27,7 +27,7 @@ As the model ages some of the initial colours have been bleached by the sun and 
 
 <br>
 
-<img src="/images/Tetrahedron_2.jpeg" alt="Tetrahedron outside"
+<img src="/images/Tetrahedron/Tetrahedron_2.jpeg" alt="Tetrahedron outside"
 	title="Tetrahedron outside" width="750" height="550" />
 
 <br>

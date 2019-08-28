@@ -1,6 +1,6 @@
 ---
 title: Columbus Cube
-cover_image: images/Columbus_Cube2.jpeg
+cover_image: images/Columbus_Cube/Columbus_Cube2.jpeg
 date: 2019-01-02 20:01:03
 tags:
 ---
@@ -15,7 +15,7 @@ The cubes can be built into a number of visually appealing shapes, for instance 
 
 <br>
 
-<img src="/images/ColumbusCubeWall.jpeg" alt="Columbus Cube Wall"
+<img src="/images/Columbus_Cube/ColumbusCubeWall.jpeg" alt="Columbus Cube Wall"
 	title="Columbus Cube Wall" width="500" height="600" />
 
 <br>

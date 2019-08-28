@@ -1,6 +1,6 @@
 ---
 title: Cat and Mouse
-cover_image: images/Cat_and_mouse_3.png
+cover_image: images/Cat_And_Mouse/Cat_and_mouse_3.png
 date: 2018-12-31 17:00:52
 tags:
 ---
