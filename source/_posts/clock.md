@@ -20,18 +20,28 @@ This is the feature that allows a pendulum clock to be a reliable time keeper.  
 <p>The maths of a pendulum being driven by a weight is complex, however just considering a simple pendulum (no regular kick from the weight) is easier.  To see this <a href="https://sites.google.com/view/simplependulumperiod/home">click here</a>
 </p>
 
-### THE PROJECT
+<br>
+
+<h2>THE PROJECT</h2>
 I was keen to try to build a clock in order to actually see this limit cycle solution in action and thought it would be a great project for Maths and Physics pupils to do.  Not only is there lots of maths to discuss in modelling various forms of pendulum motion, but also the challenge and satisfaction of building an accurate time keeping device.
 
-We started the year with this objective but absolutely no idea how we were going to achieve it.  
+We started the year with this objective but absolutely no idea how we were going to achieve it.
 
-#### ATTEMPT 1
+<br>
+
+<h3>ATTEMPT 1</h3>
 Our initial attempt was to try and build a pretty basic weight driven pendulum following instructions based on a physics website.  This only ran for about 30 seconds and was quite ‘lumpy’ due to the unsophisticated design and fairly irregular shapes of the gears which we cut ourselves.  It was clear more precision was needed.
 
-#### ATTEMPT 2
+<br>
+<br>
+
+<h3>ATTEMPT 2</h3>
 We found an intriguing book that purported to contain templates for all the pieces needed to build a weight driven pendulum clock out of its cardboard pages!  While this seemed a great idea with much potential, after lots of effort it was clear that the level of accuracy and attention to detail necessary to get a good result were significant.  Between several classes we got a reasonable version pieced together and the principles by which the clock should work were clear, but our failure to cut the pieces absolutely accurately had a big impact on the free running of the mechanism.  Basically it looked quite good but didn’t work well!
 
-#### ATTEMPT 3
+<br>
+<br>
+
+<h3>ATTEMPT 3</h3>
 After more research we found a template for a clock that could be cut from a single piece of 4mm plywood and slotted together.  This was the result of a project between a clock maker and Loughborough University which aimed to provide an easy method of building an accurate weight driven pendulum clock.  Exactly what we were trying to do.
 
 All that was needed was a laser cutter, which fortunately my school has.

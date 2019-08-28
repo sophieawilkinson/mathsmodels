@@ -18,6 +18,8 @@ The cubes can be built into a number of visually appealing shapes, for instance 
 <img src="/images/ColumbusCubeWall.jpeg" alt="Columbus Cube Wall"
 	title="Columbus Cube Wall" width="600" height="600" />
 
+<%- image_tag(/images/ColumbusCubeWall.jpeg) %>
+
 <br>
 
 Instructions on how to build the shape are easily found by googling ‘Columbus Cube’
