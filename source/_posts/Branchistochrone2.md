@@ -5,6 +5,8 @@ date: 2019-01-05 15:47:06
 tags:
 ---
 
+Please note: The cycloid model is still under construction and what follows describes how it will be on completion later in 2019.  When done I’ll add a video of the model in action along with more photos
+
 <h2>Finding the fastest path from A to B</h2>
 
 I got the idea for this model from a maths course I was taking on the calculus of variations.  This is a slightly obscure branch of calculus that deals with finding paths which give minimum or maximum values of an integral containing an unknown function (this is called a functional).
