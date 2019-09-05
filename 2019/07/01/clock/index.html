@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Head tag -->
+  <head><meta name="generator" content="Hexo 3.9.0">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Title -->
+  
+  <title>Pendulum Clock - Maths Models</title>
+
+  <!--Favicon-->
+  <link rel="icon" href="favicon/favicon.ico">
+
+  <!--Description-->
+  
+      <meta name="description" content="This is another project with its origins in a maths course I was doing - this time non-linear ordinary differential equations.
+The differential equati">
+  
+
+  <!--Author-->
+  
+      <meta name="author" content="John Doe">
+  
+
+  <!-- Pure CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Crimson+Text|Open+Sans:300,800" rel="stylesheet">
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/css/styles.css">
+
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+
+  <!-- Google Analytics -->
+  
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-144369590-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+
+
+</head>
+
+
+  <body>
+  	<div class="container-fluid navbar-container m-sm-5">
+      <!-- Header -->
+      <nav class="navbar navbar-toggleable-sm navbar-light px-1 py-3 my-3 mb-sm-5">
+  <a class="navbar-brand ml-2" href="/">Maths Models</a>
+  <button class="navbar-toggler navbar-toggler-right py-2" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse text-center" id="navbarCollapse">
+    <ul class="navbar-nav ml-auto my-auto">
+      
+        <li class="nav-item">
+          <a class="nav-link" href="/about">About</a>
+        </li>
+      
+        <li class="nav-item">
+          <a class="nav-link" href="/contact">Contact</a>
+        </li>
+      
+        <li class="nav-item">
+          <a class="nav-link" href="https://twitter.com/wilkinsonandy">Twitter</a>
+        </li>
+      
+    </ul>
+    <hr class="hidden-md-up" />
+  </div>
+</nav>
+
+
+  		<div class="row">
+  			<div class="col-12 mb-4">
+  <img class="img-fluid project-img" src="/images/Pendulum_Clock/Clock_Cover.jpeg" alt="Pendulum Clock">
+</div>
+<div class="col-lg-4 col-12 pt-3 px-4 pr-lg-5">
+  <h1>Pendulum Clock</h1>
+</div>
+<div class="col-lg-8 col-12 pt-lg-3 mb-4 pl-lg-5 px-lg-0 px-4 portfolio-content">
+  <div class="owl-media owl-video owl-youtube"><iframe src="//www.youtube.com/embed/yG_6zBWZPYs" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+
+<p>This is another project with its origins in a maths course I was doing - this time non-linear ordinary differential equations.</p>
+<p>The differential equation describing simple pendulum motion is fairly straightforward, or at least the commonly used approximation is, and forms part of some maths and physics A level courses.  </p>
+<p>A more sophisticated model where the pendulum is forced to keep moving e.g. by a weight regularly ‘kicking’ the pendulum (as in a pendulum clock) is rather more difficult to analyse, but has some fascinating features.</p>
+<p>The key feature is that such a system forms a self regulating mechanism which produces periodic motion that can be turned into an accurate measurement of time.</p>
+<p>The technical term is that the differential equation that describes the motion of a pendulum clock has a periodic (repeating cycle) solution called a ‘limit cycle’.  Essentially, if one starts the pendulum swinging with an amplitude less than the limit cycle solution then the amplitude will automatically increase till at the limit cycle level and then remain there.  Similarly if one begins the pendulum swinging with an amplitude above the limit cycle solution then the amplitude will automatically decrease to the limit cycle level and remain there.</p>
+<p>This is the feature that allows a pendulum clock to be a reliable time keeper.  In essence the regular kicks given to the pendulum rod via the escape mechanism are automatically kept to the limit cycle amplitude of the mechanism, and the regular period of the pendulum is converted via gears to drive the clock hands.</p>
+<p>The maths of a pendulum being driven by a weight is complex, however just considering a simple pendulum (no regular kick from the weight) is easier.  To see this <a href="https://sites.google.com/view/simplependulumperiod/home" target="_blank" rel="noopener">click here</a>
+</p>
+
+<br>
+
+<h2>THE PROJECT</h2>
+I was keen to try to build a clock in order to actually see this limit cycle solution in action and thought it would be a great project for Maths and Physics pupils to do.  Not only is there lots of maths to discuss in modelling various forms of pendulum motion, but also the challenge and satisfaction of building an accurate time keeping device.
+
+<p>We started the year with this objective but absolutely no idea how we were going to achieve it.</p>
+<br>
+
+<h3>ATTEMPT 1</h3>
+Our initial attempt was to try and build a pretty basic weight driven pendulum following instructions based on a physics website.  This only ran for about 30 seconds and was quite ‘lumpy’ due to the unsophisticated design and fairly irregular shapes of the gears which we cut ourselves.  It was clear more precision was needed.
+
+<br>
+<br>
+
+<h3>ATTEMPT 2</h3>
+We found an intriguing book that purported to contain templates for all the pieces needed to build a weight driven pendulum clock out of its cardboard pages!  While this seemed a great idea with much potential, after lots of effort it was clear that the level of accuracy and attention to detail necessary to get a good result were significant.  Between several classes we got a reasonable version pieced together and the principles by which the clock should work were clear, but our failure to cut the pieces absolutely accurately had a big impact on the free running of the mechanism.  Basically it looked quite good but didn’t work well!
+
+<br>
+<br>
+
+<h3>ATTEMPT 3</h3>
+After more research we found a template for a clock that could be cut from a single piece of 4mm plywood and slotted together.  This was the result of a project between a clock maker and Loughborough University which aimed to provide an easy method of building an accurate weight driven pendulum clock.  Exactly what we were trying to do.
+
+<p>All that was needed was a laser cutter, which fortunately my school has.</p>
+<p>To make the clock more appealing we decided to use clear acrylic for the pieces rather than wood.  This worked well, and the clock produced is pictured in the menu item you followed to get to this page.</p>
+<p>With the clock fixed at 5 feet 6 inches above the ground raising the weight to clock face level gives about 8 hours of running time.  Amazingly it is accurate to within a minute or two over this period.</p>
+<p>Most impressively the clock does allow the limit cycle behaviour as described at the start of this page to be seen in action.</p>
+<p>In real terms what the limit cycle solution represents is a balance between the friction in the mechanism and the potential energy of the weight.  Increasing the weight would result in a different limit cycle solution, with the pendulum amplitude increasing a little.  The timekeeping of the clock would be unaffected since the period of the pendulum is (almost) independent of its amplitude for small maximum angles of displacement from the vertical.</p>
+
+</div>
+
+
+      </div>
+      
+  	</div>
+
+    <!-- After footer scripts -->
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+
+  </body>
+</html>
