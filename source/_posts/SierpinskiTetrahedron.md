@@ -28,7 +28,7 @@ As the model ages some of the initial colours have been bleached by the sun and 
 <br>
 
 <img src="/images/Tetrahedron/Tetrahedron_2.jpeg" alt="Tetrahedron outside"
-	title="Tetrahedron outside" width="50%" height="50%" />
+	title="Tetrahedron outside" width="100%" height="50%" />
 
 <br>
 

@@ -26,7 +26,7 @@ The final Level 3 model contains 48,000 pieces of card.  It was built in its dis
 <br>
 
 <img src="/images/Menger_Sponge/menger_2.jpeg" alt="Menger Sponge in case"
-	title="Menger Sponge in case" width="50%" height="50%" />
+	title="Menger Sponge in case" width="100%" height="50%" />
 
 <br>
 

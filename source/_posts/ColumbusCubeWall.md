@@ -12,7 +12,7 @@ The secret of how the cubes stack is that each one has an inverted corner, which
 <br>
 
 <img src="/images/Columbus_Cube/Inverted_cube.jpeg" alt="Inverted Cube"
-	title="Inverted Cube" width="50%" height="50%" />
+	title="Inverted Cube" width="100%" height="50%" />
 
 <br>
 
@@ -23,7 +23,7 @@ The cubes can be built into a number of visually appealing shapes, for instance 
 <br>
 
 <img src="/images/Columbus_Cube/ColumbusCubeWall.jpeg" alt="Columbus Cube Wall"
-	title="Columbus Cube Wall" width="50%" height="50%" />
+	title="Columbus Cube Wall" width="100%" height="50%" />
 
 <br>
 
