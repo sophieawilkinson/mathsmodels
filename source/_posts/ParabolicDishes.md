@@ -1,6 +1,6 @@
 ---
 title: Parabolic Dish
-date: 2019-01-03 16:25:47
+date: 2019-05-01 17:00:52
 cover_image: images/Parabolic_Dish/ParabolicDish2.jpeg
 tags:
 ---

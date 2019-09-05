@@ -1,7 +1,7 @@
 ---
 title: Menger Sponge
 cover_image: images/Menger_Sponge/MengerSponge.jpeg
-date: 2019-01-04 19:49:54
+date: 2019-06-01 17:00:52
 tags:
 ---
 One of the unexpected joys of becoming a teacher after years working in the City is that work-related training courses have gone from being something I dread to something I look forward to.  I attended a course run by NRICH in 2016 that had a session with a topologist (a mathematician specialising in properties of geometric objects) about an object called the Menger sponge.  We were taught how to build a model out of business cards (I have plenty of these floating around!) and she even gave out packs of cards from a model she’d disassembled for us to take home and make a start with.
@@ -14,7 +14,8 @@ The best way to imagine a Menger sponge is to begin with a solid cube (this is a
 
 <br>
 
-![Menger Sponge Diagram](/images/Menger_Sponge/menger_0123_diagram.jpeg)
+<img src="/images/Menger_Sponge/menger_0123_diagram.jpeg" alt="Menger Sponge Diagram"
+	title="Menger Sponge Diagram" width="100%" height="100%" />
 
 <br>
 
@@ -25,7 +26,7 @@ The final Level 3 model contains 48,000 pieces of card.  It was built in its dis
 <br>
 
 <img src="/images/Menger_Sponge/menger_2.jpeg" alt="Menger Sponge in case"
-	title="Menger Sponge in case" width="750" height="550" />
+	title="Menger Sponge in case" width="50%" height="50%" />
 
 <br>
 

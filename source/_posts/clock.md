@@ -1,7 +1,7 @@
 ---
 title: Pendulum Clock
 cover_image: images/Pendulum_Clock/Clock_Cover.jpeg
-date: 2019-08-13 17:00:52
+date: 2019-07-01 17:00:52
 tags:
 ---
 
