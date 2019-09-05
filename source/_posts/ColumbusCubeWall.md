@@ -11,7 +11,7 @@ The secret of how the cubes stack is that each one has an inverted corner, which
 
 <br>
 
-<img src="/images/Columbus_Cube/Inverted_Cube.jpeg" alt="Inverted Cube"
+<img src="/images/Columbus_Cube/Inverted_cube.jpeg" alt="Inverted Cube"
 	title="Inverted Cube" width="400" height="300" />
 
 <br>
