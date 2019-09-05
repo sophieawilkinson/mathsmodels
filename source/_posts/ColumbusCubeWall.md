@@ -27,4 +27,5 @@ The cubes can be built into a number of visually appealing shapes, for instance 
 
 <br>
 
-Instructions on how to build the shape are easily found by googling ‘Columbus Cube’
+<p>Instructions on how to build Columbus cubes can be found <a href="http://www.origamiheaven.com/pdfs/columbus.pdf">here</a>. These are from David Mitchell’s wonderful <a href="http://www.origamiheaven.com"> origami website </a>.
+</p>
