@@ -1,6 +1,6 @@
 ---
 title: Pendulum Clock
-cover_image: images/Pendulum_Clock/Clock.jpeg
+cover_image: images/Pendulum_Clock/Clock_Cover.jpeg
 date: 2019-08-13 17:00:52
 tags:
 ---
@@ -53,3 +53,5 @@ With the clock fixed at 5 feet 6 inches above the ground raising the weight to c
 Most impressively the clock does allow the limit cycle behaviour as described at the start of this page to be seen in action.
 
 In real terms what the limit cycle solution represents is a balance between the friction in the mechanism and the potential energy of the weight.  Increasing the weight would result in a different limit cycle solution, with the pendulum amplitude increasing a little.  The timekeeping of the clock would be unaffected since the period of the pendulum is (almost) independent of its amplitude for small maximum angles of displacement from the vertical.
+
+{% owl youtube yG_6zBWZPYs %}

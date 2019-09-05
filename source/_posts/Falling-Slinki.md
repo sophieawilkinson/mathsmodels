@@ -1,5 +1,5 @@
 ---
-title: Falling Slinki
+title: Falling Slinky
 date: 2019-08-28 08:12:54
 cover_image: images/Slinki/Slinki_1.png
 tags:
