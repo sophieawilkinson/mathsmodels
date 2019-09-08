@@ -5,7 +5,7 @@ cover_image: images/Slinki/Slinki_1.png
 tags:
 ---
 
-This is an amazing phenomenon, which you can view by clicking play on the video
+Checking updates This is an amazing phenomenon, which you can view by clicking play on the video
 
 <br>
   {% owl youtube urnmREIQLvY %}
