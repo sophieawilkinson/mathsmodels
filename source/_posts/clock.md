@@ -5,9 +5,9 @@ date: 2019-07-01 17:00:52
 tags:
 ---
 
-{% owl youtube yG_6zBWZPYs %}
-
 This is another project with its origins in a maths course I was doing - this time non-linear ordinary differential equations.
+
+{% owl youtube yG_6zBWZPYs %}
 
 The differential equation describing simple pendulum motion is fairly straightforward, or at least the commonly used approximation is, and forms part of some maths and physics A level courses.  
 
