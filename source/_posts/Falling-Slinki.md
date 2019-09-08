@@ -21,7 +21,7 @@ So, I had a brilliant idea of filling a large tube with oil and conducting the e
 
 The maths of this is pretty involved, but can be summarised by thinking of the slinky moving as a wave, and the wave does not reach the bottom of the slinky, 'telling' it to move, until the top has collapsed onto it.
 
-The funny end to the story is that while Mr Holmes and I were repositioning the tube of oil into a sink in a Physics room so pupils would be able to repeat the experiment, Mr Holmes lifted the tube sharply not realising that the rubber bung at the base had got a bit of oil on the bottom and stuck to the bench.  The tube went up, the bung remained stuck to the bench and seven litres of oil splurged all over Mr Holmes while I leaped backwards and avoided much of it!  Unfortunately this was not captured on film!
+The funny end to the story is that while Cameron Holmes and I were repositioning the tube of oil into a sink in a Physics room so pupils would be able to repeat the experiment, Cameron lifted the tube sharply not realising that the rubber bung at the base had got a bit of oil on the bottom and stuck to the bench.  The tube went up, the bung remained stuck to the bench and seven litres of oil splurged all over Cameron while I leaped backwards and avoided much of it!  Unfortunately this was not captured on film!
 
 The event seemed a bit less amusing once we realised that seven litres of oil made a huge mess of a lot of carpet tiles and needed a significant amount of time to clean up - and eventually some new tiles!
 
