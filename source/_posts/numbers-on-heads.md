@@ -15,4 +15,4 @@ Person A: "My number is 65"
 
 Amazingly Person A is correct and worked this out purely by use of logic given what they all know and the conversation.  No tricks at all!!
 
-<p>How is this possible?  Have a try to figure it out before looking at the solution which you can find <a href=sites.google.com/view/mathsmodels-numbersonheads>HERE</a></p>
+<p>How is this possible?  Have a try to figure it out before looking at the solution which you can find <a href=https://sites.google.com/view/mathsmodels-numbersonheads>HERE</a></p>
