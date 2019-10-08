@@ -15,6 +15,8 @@ An idea struck me when browsing maths videos on YouTube, one of which led to a C
 
 My idea based on this was to build two large parabolic dishes and position them in the Maths and Physics corridor, using these as whispering dishes.  You may have seen these in the Science Museum in London, where a person whispering into the focal point of one dish can be clearly heard by someone else with their ear at the focal point of the other.
 
+<p>The maths showing how a parabolic shape focuses incoming rays at a point (the focal point) is interesting and can be <a href=https://sites.google.com/view/parabola-maths/home>viewed here</a>.</p>
+
 We decided to make our initial dish one metre across and shaped so that the focal point was in line with the front face of the dish.  We roughly followed the build plan from the YouTube video, which consisted of cutting lots of ‘fins’ with a parabolic arc as one edge and sticking these onto a 1 meter circle of thick card.  This was then faced with a number of ‘petals’ to provide the parabolic surface.
 
 While forming the template for the fins was easy, construction of the petals to cover the inner surface was a lot harder since these needed to be cut from 2D material in such a way that they would curve correctly in the 3D model to form a smooth parabolic surface.  A fair bit of work using Excel to generate interpolated curves to give the right edges for each petal was involved here.  Selecting the right material for the petals also needed some thought.  We settled on thin plastic, being hard, flexible and non-porous.  These are the things needed to allow the material to bend to the required form and also to bounce sound waves efficiently.
