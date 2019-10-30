@@ -4,6 +4,7 @@ cover_image: images/Menger_Sponge/MengerSponge.jpeg
 date: 2019-06-01 17:00:52
 tags:
 ---
+
 One of the unexpected joys of becoming a teacher after years working in the City is that work-related training courses have gone from being something I dread to something I look forward to.  I attended a course run by NRICH in 2016 that had a session with a topologist (a mathematician specialising in properties of geometric objects) about an object called the Menger sponge.  We were taught how to build a model out of business cards (I have plenty of these floating around!) and she even gave out packs of cards from a model she’d disassembled for us to take home and make a start with.
 
 The session really grabbed my imagination: the structure looks so magnificent and -- in this case -- is built only with interlocking folded cards.  No glue or any other support is required.
