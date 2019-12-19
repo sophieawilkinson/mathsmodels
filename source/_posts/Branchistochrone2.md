@@ -1,11 +1,12 @@
 ---
 title: Brachistochrone
-cover_image: images/Brachistochrone/Brachistochrone.jpeg
+cover_image: images/Brachistochrone/Brachistochrone2.jpeg
 date: 2019-07-01 17:00:52
 tags:
 ---
-
-Please note: The cycloid model is still under construction and what follows describes how it will be on completion later in 2019.  When done I’ll add a video of the model in action along with more photos
+<br>
+  {% owl youtube sOS6i7cn_Lg %}
+<br>
 
 <h2>Finding the fastest path from A to B</h2>
 
@@ -25,6 +26,13 @@ The curves were made by Maths and Physics Sixth Form pupils at my school as part
 
 Making the mechanism for raising and simultaneously releasing the balls was quite a challenge.  I decided on electromagnets as the release mode since these can be made to release at exactly the same time, consistently.  This level of precision is needed because the difference in journey time between some paths is so small that simultaneous release is critical to be able to observe the effect.  Getting the balls from the start point to the magnets involves an intricate mechanism, starting with an Archimedes screw lift, and then a sensitive balance mechanism that delivers each ball directly onto a magnet once the final one reaches the top of the model.  This done, the magnets are rotated to the top of each curve and the balls released.  At the end of their curves the balls fall onto a series of sloped ramps which roll them all around the case to the entry of the lift.  The model is then primed for the process to repeat when a user presses the start button on the outside of the case.  All of these actions are coordinated via a Rasberry Pi device.
 
+<br>
+
+<img src="/images/Brachistochrone/Brachistochrone3.jpeg" alt="Brachistochrone Mechanism"
+	title="Brachistochrone Mechanism" width="100%" height="50%" />
+
+<br>
+
 <p>To show that a wider variety of curves are 'beaten' by the cycloid I also developed a computer model, which is displayed on an iPad next to the display.  This model allows users to vary all of the curves apart from the cycloid, which 'wins' regardless of how the other curves are configured.  The model was developed in GeoGebra, a superb (and free) mathematical modelling language.  It works by solving the differential equation of motion numerically for the curves as configured by the user, so motion on the iPad (excluding friction) is as would be observed in the real world.  You can try out this model <a href="https://www.geogebra.org/m/YrnfqtWg">here</a>
 </p>
 
@@ -40,3 +48,10 @@ Making the mechanism for raising and simultaneously releasing the balls was quit
 <h2>With thanks to</h2>
 
 Mike Reed, who gave lots of assistance with the lift and release mechanism, and Cameron Holmes, who helped build the curves with assistance from pupils.
+
+<br>
+
+<img src="/images/Brachistochrone/Brachistochrone4.jpeg" alt="Brachistochrone"
+	title="Brachistochrone" width="50%" height="50%" />
+
+<br>
