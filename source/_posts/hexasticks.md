@@ -1,6 +1,6 @@
 ---
 title: Hexastix
-date: 2019-06-02 17:00:52
+date: 2019-25-01 17:00:52
 tags:
 cover_image: images/Hexastix/Hexastix1.jpeg
 ---

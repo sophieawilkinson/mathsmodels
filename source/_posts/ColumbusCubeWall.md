@@ -1,7 +1,7 @@
 ---
 title: Columbus Cube
 cover_image: images/Columbus_Cube/Columbus_Cube2.jpeg
-date: 2019-04-01 17:00:52
+date: 2019-23-01 17:00:52
 tags:
 ---
 

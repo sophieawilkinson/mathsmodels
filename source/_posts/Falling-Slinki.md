@@ -1,6 +1,6 @@
 ---
 title: Falling Slinky
-date: 2019-09-01 17:00:52
+date: 2019-26-01 17:00:52
 cover_image: images/Slinki/Slinki_1.png
 tags:
 ---

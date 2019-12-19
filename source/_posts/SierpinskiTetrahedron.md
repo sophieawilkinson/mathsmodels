@@ -1,7 +1,7 @@
 ---
 title: Sierpinski Tetrahedron
 cover_image: images/Tetrahedron/Tetrahedron1.jpeg
-date: 2019-09-01 17:00:52
+date: 2019-29-01 17:00:52
 ---
 
 <p>After building the <a href="https://mathsmodels.co.uk/2019/01/04/MengerSponge/">level 3 Menger sponge</a> in 2017 I was looking for another project where I could involve all pupils at my school with construction of another mathematical object on a similar scale, and ideally as visually striking.</p>
