@@ -4,20 +4,24 @@ cover_image: images/Brachistochrone/Brachistochrone2.jpeg
 date: 2019-30-01 17:00:52
 tags:
 ---
+
 <br>
-  {% owl youtube sOS6i7cn_Lg %}
+  {% owl youtube 6P3O9HQtSUQ %}
 <br>
 
 <h2>Finding the fastest path from A to B</h2>
 
 I got the idea for this model from a maths course I was taking on the calculus of variations.  This is a slightly obscure branch of calculus that deals with finding paths which give minimum or maximum values of an integral containing an unknown function (this is called a functional).
 
-The roots of the problem go back to 1696 when Mathematician Johann Bernouilli posed a question about what path an object should follow in order to get from A to B in the shortest time possible moving just under gravity (and with no friction).  It turns out that the curve to follow is called a cycloid; calculus of variation techniques allow the specific equation to be calculated.  The easiest way to envisage a cycloid shape is to think of a bicycle wheel and imagine the path traced out by the valve, starting at ground level, as the wheel is rolled forward over level ground.  Our cycloid is this shape but upside down.
+The model illustrates the solution to a problem posed in 1696 by Mathematician Johann Bernouilli.  This was to find the path that an object should follow in order to get from A to B  in the shortest time possible moving just under gravity (and with no friction).  It turns out that the curve to follow is called a cycloid; calculus of variation techniques allow the specific equation to be calculated.  The easiest way to envisage a cycloid shape is to think of a bicycle wheel and imagine the path traced out by the valve, starting at ground level, as the wheel is rolled forward over level ground.  Our cycloid is this shape but upside down.
 
 The model illustrates the cycloid's supremacy by comparing six different paths all of which take a ball a vertical distance of 40cm and a horizontal distance of 120cm.  The release mechanism is set up to start all the balls going at exactly the same time and it can be observed that the ball following the cycloid - the front curve - completes its journey first.  In the physical model there are five different curves behind the cycloid, each taking a different time for the ball to traverse.
 
-Interestingly, you may notice that the cycloid takes its ball on a path that goes below its end point for part of the journey - the ball is climbing, so therefore slowing down, when it reaches the end!
+Interestingly, you may notice that the cycloid takes its ball on a path that goes below its end point for part of the journey - the ball is climbing when it reaches the end!
 
+<br>
+  {% owl youtube sOS6i7cn_Lg %}
+<br>
 
 <br>
 
