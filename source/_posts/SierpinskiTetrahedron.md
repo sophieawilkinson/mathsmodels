@@ -16,6 +16,13 @@ Like the Menger sponge the Sierpinski tetrahedron's volume and surface area beha
 
 The build process involved all Maths classes spending a few sessions cutting out tetrahedron net patterns from various colours of mirror card then folding and PVA gluing these to make our level 0 units.  These were then built into level 1 tetrahedrons and upwards into level 4s, consisting of 256 level 0s each.  Hot glue was used to join the units together as it sets quickly and forms quite a strong bond - although this did cause some issues later!
 
+<br>
+
+<img src="/images/Tetrahedron/Tetrahedron_2.jpeg" alt="Tetrahedron outside"
+	title="Tetrahedron outside" width="100%" height="50%" />
+
+<br>
+
 The final level 5 unit could not be constructed until its acrylic case arrived and was sited outside, so the level 4s sat in my room for quite a few months awaiting delivery.  This itself was a major undertaking since it needed to be strong and watertight, making it heavy and not at all easy to assemble.  I was lucky to find a small plastics company who were up for the challenge and spent a significant amount of time to provide an excellent result.
 
 The unit was sited outside the Maths and Science building in early January 2019.  It looks spectacular, although we have had a number of issues following initial construction due to the effect of weather on the model.  The main problem has been the fact that the individual level 0 units are not perfect so inevitably each of the glued joints has an amount of stresses depending on how exactly the parts aligned, and what level of force was needed to get the corners to meet neatly.  While this force was only small for any individual joint it builds up across the whole model and concentrates in certain places.  The result is that over time as the model is exposed to heat and cold those joints with most cumulative stress are liable to break.  This has led to a few partial collapses that have required the model to be removed from the case for repair and some additional features added to try to minimise recurrence.  To date the major enhancements have been to:
@@ -27,9 +34,15 @@ As the model ages some of the initial colours have been bleached by the sun and 
 
 <br>
 
-<img src="/images/Tetrahedron/Tetrahedron_2.jpeg" alt="Tetrahedron outside"
-	title="Tetrahedron outside" width="100%" height="50%" />
+<img src="/images/Tetrahedron/Tetrahedron34.jpeg" alt="Tetrahedron outside"
+	title="Tetrahedron outside" width="100%" height="100%" />
 
 <br>
 
 Thanks in particular to Lee Farrer who built the concrete plinth the tetrahedron case sits on and who has been infinitely patient with my many calls for assistance in initially siting the model and then in opening and resealing the case when maintenance has been necessary.
+
+<br>
+
+
+
+<br>
