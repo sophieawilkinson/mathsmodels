@@ -1,5 +1,5 @@
 ---
-title: <p> Easy As &#960; </p>
+title: Easy As &#960;
 cover_image: images/pie.jpg
 date: 2020-07-15 16:36:22
 ---
