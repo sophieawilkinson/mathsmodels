@@ -1,7 +1,7 @@
 ---
 title: Easy As &#960;
 cover_image: images/pie.jpg
-date: 2020-07-15 16:36:22
+date: 2019-22-01 17:00:52
 ---
 
  <p> &#960; is a really important number in maths, first introduced as the value obtained by dividing the circumference of <b>any</b> circle by its diameter.  As such &#960;, is a fundamental constant which is intrinsic to our usual (Euclidean) model of space.</p>
