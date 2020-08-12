@@ -126,13 +126,13 @@ A key point about similar triangles is that corresponding pairs of sides are in 
 
 <br>
 
-And our approximation of the sphere SA = 2&#960;s(r1+r2+r3) = 2&#960;s(<sup>EB</sup>&frasl;<sub>s</sub>EBs)(h1+h3+h6)
+And our approximation of the sphere SA = 2&#960;s(r1+r2+r3) = 2&#960;s(<sup>EB</sup>&frasl;<sub>s</sub>)(h1+h3+h6)
 
-And as h1=h2, h3=h4 and h5=h6, then <i>h</i>1+<i>h</i>3+<i>h</i>6 = <sup>1</sup>&frasl;<sub>2</sub> (<i>h</i>1+<i>h</i>2+<i>h</i>3+<i>h</i>4+<i>h</i>5+<i>h</i>6) = 2<i>r</i>
+And as h1=h2, h3=h4 and h5=h6, then <i>h</i>1+<i>h</i>3+<i>h</i>6 = <sup>1</sup>&frasl;<sub>2</sub> (<i>h</i>1+<i>h</i>2+<i>h</i>3+<i>h</i>4+<i>h</i>5+<i>h</i>6) = <i>r</i>
 since h1+h2+h3+h4+h5+h6 = 2r
 
 Making our circle SA estimate  = 2&#960;rEB
 
 The final step is to think about what happens to this formula as the number of sides in our inscribed regular polygon is increased towards infinity, when the polygon eventually becomes a circle, and the rotated object becomes exactly a sphere.  Well, the SA formula we ended up with, 2&#960;rEB, actually doesn’t change as we increase the number of sides in our regular polygon, what does change though is the length EB, which gets closer and closer to the length EA, which =  2<i>r</i>
 
-<b> So in the limit, as the number of sides in the polygon tends towards infinity, the sphere SA = 2&#960;r(2r) = 4r<sup>2</sup> (where we have replaced EB with 2r.)</b>
+<b> So in the limit, as the number of sides in the polygon tends towards infinity, the sphere SA = 2&#960;r(2r) = 4&#960;r<sup>2</sup> (where we have replaced EB with 2r.)</b>
