@@ -122,7 +122,7 @@ A key point about similar triangles is that corresponding pairs of sides are in 
 
 <br>
 
-<h3><i>r1  =  <sup>h1EB</sup>&frasl;<sub>s</sub>  ,  <i>r2  =  <sup>h3EB</sup>&frasl;<sub>s</sub>  ,  <i>r3  =  <sup>h1EB</sup>&frasl;<sub>s</sub></h3>
+<h3><i>r1  =  <sup>h1EB</sup>&frasl;<sub>s</sub>  ,  <i>r2  =  <sup>h3EB</sup>&frasl;<sub>s</sub>  ,  <i>r3  =  <sup>h6EB</sup>&frasl;<sub>s</sub></h3>
 
 <br>
 
@@ -136,3 +136,32 @@ Making our circle SA estimate  = 2&#960;rEB
 The final step is to think about what happens to this formula as the number of sides in our inscribed regular polygon is increased towards infinity, when the polygon eventually becomes a circle, and the rotated object becomes exactly a sphere.  Well, the SA formula we ended up with, 2&#960;rEB, actually doesn’t change as we increase the number of sides in our regular polygon, what does change though is the length EB, which gets closer and closer to the length EA, which =  2<i>r</i>
 
 <b> So in the limit, as the number of sides in the polygon tends towards infinity, the sphere SA = 2&#960;r(2r) = 4&#960;r<sup>2</sup> (where we have replaced EB with 2r.)</b>
+
+<br>
+
+<h2> Volume of a sphere </h2>
+
+<br>
+
+It will come as no surprise that our route towards the volume of a sphere is again going to use the technique of looking at a limit of the product of two quantities, one tending to zero, the other tending to infinity.  To do this we’ll consider an object with many congruent 2-d faces that approximates to a sphere.  How about a glitterball:
+
+<br>
+
+<center><img src="/images/glitterball.jpg" alt="glitterball"
+	title="glitterball" width="50%" height="25%" /></center>
+
+<br>
+
+These were a common feature in discos back in the 70s and 80s.  You may even have seen one more recently.
+
+This is a useful object for us since the surface is made of many identical squares, and overall the glitterball is close in size to a sphere.
+
+If we keep decreasing the side length of the squares the number of squares needed to cover the whole surface keeps increasing.  In the limit, as the squares’ side length tends to zero and the number of squares tends to infinity, then the glitterball becomes an actual sphere, and we know the SA is then 4&#960;r<sup>2</sup>, where r is the radius of the sphere.  So if we represent the area of each square as A and the number of squares as n, then we’re saying that the limit of nA as A tends to zero and n tends to infinity is 4&#960;r<sup>2</sup>.
+
+Now let’s think about the volume of the glitterball.  Well, if we join each corner of a square on its surface to the centre of the glitterball with a straight line the shape we get is a square based pyramid, and there are n of these in the glitterball, each with base area of A.
+
+As the volume of a square based pyramid is <sup>1</sup>&frasl;<sub>3</sub>Ah, where A is the base area and h the perpendicular height, then the volume of the glitterball is n times this, or <sup>1</sup>&frasl;<sub>3</sub>nAh.
+
+Now, we have already seen that as A tends to zero and n tends to infinity, nA tends to 4&#960;r<sup>2</sup>.  Also, as this happens, the perpendicular height of each pyramid, h, tends to r, the radius of the sphere that the glitterball becomes.
+
+<b>So in the limit, as the number of faces (squares) on the glitterball tends towards infinity, the sphere volume = <sup>1</sup>&frasl;<sub>3</sub>nAh = <sup>1</sup>&frasl;<sub>3</sub> (4&#960;r<sup>2</sup>)(r)= <sup>4</sup>&frasl;<sub>3</sub>r<sup>3</sup>.</b>
