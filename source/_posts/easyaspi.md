@@ -164,4 +164,4 @@ As the volume of a square based pyramid is <sup>1</sup>&frasl;<sub>3</sub>Ah, wh
 
 Now, we have already seen that as A tends to zero and n tends to infinity, nA tends to 4&#960;r<sup>2</sup>.  Also, as this happens, the perpendicular height of each pyramid, h, tends to r, the radius of the sphere that the glitterball becomes.
 
-<b>So in the limit, as the number of faces (squares) on the glitterball tends towards infinity, the sphere volume = <sup>1</sup>&frasl;<sub>3</sub>nAh = <sup>1</sup>&frasl;<sub>3</sub> (4&#960;r<sup>2</sup>)(r)= <sup>4</sup>&frasl;<sub>3</sub>r<sup>3</sup>.</b>
+<b>So in the limit, as the number of faces (squares) on the glitterball tends towards infinity, the sphere volume = <sup>1</sup>&frasl;<sub>3</sub>nAh = <sup>1</sup>&frasl;<sub>3</sub> (4&#960;r<sup>2</sup>)(r)= <sup>4</sup>&frasl;<sub>3</sub>&#960;r<sup>3</sup>.</b>
