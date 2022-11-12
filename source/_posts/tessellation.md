@@ -22,7 +22,6 @@ We completed a simpler tessellation project a couple of years ago based on a par
 
 <br>
 
-
 Tessellation is the name for a picture created by ‘tiling’ one or more images onto a 2D surface in a regular pattern whereby the surface is completely covered (no gaps between the images).
 
 Such pictures can look stunning and on first sight can appear very surprising.
