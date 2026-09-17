@@ -7,8 +7,6 @@ tags:
 
 This is another project with its origins in a maths course I was doing - this time non-linear ordinary differential equations.
 
-{% owl youtube yG_6zBWZPYs %}
-
 The differential equation describing simple pendulum motion is fairly straightforward, or at least the commonly used approximation is, and forms part of some maths and physics A level courses.  
 
 A more sophisticated model where the pendulum is forced to keep moving e.g. by a weight regularly ‘kicking’ the pendulum (as in a pendulum clock) is rather more difficult to analyse, but has some fascinating features.

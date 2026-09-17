@@ -1,5 +1,5 @@
 ---
-title: Aperiodic tessellation
+title: Aperiodic Tessellation
 cover_image: images/tessellation.jpg
 date: 2022-10-13 18:39:53
 tags:
